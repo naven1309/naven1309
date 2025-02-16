@@ -59,7 +59,7 @@ I'm a passionate software developer with a love for creating innovative solution
 - Collaborated with a team of 7 to develop a city-building simulation game in C++ that challenges players to manage and expand a virtual city by balancing infrastructure, resources, citizens' needs, and government policies.
 - Utilised advanced software engineering principles, incorporating design patterns to ensure modularity and scalability.
 - Effective teamwork facilitated the integration of diverse ideas and expertise, enabling the delivery of a polished, strategic gameplay experience. The game emphasised strategic decision-making and showcased expertise in C++ programming, object-oriented design, and simulation development.
-- **GitHub Link:** [CityBuilder Simulation](https://github.com/naven1309/CityBuilder-Simulation)
+- **GitHub Link:** [CityBuilder Simulation](https://github.com/COS214-Project-2024/VScoders-and-the-Jetbrainstormers-Team-4)
 
 ### COS341 Compiler Project
 
