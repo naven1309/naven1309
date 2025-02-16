@@ -71,7 +71,7 @@ You can view my CV [here](./Navendran_Naidoo_CV.pdf).
 
 ## Connect with Me
 
-- [LinkedIn]([https://www.linkedin.com/in/navendran-naidoo](https://www.linkedin.com/in/navendran-naidoo-0bb732221)
+- [LinkedIn](https://www.linkedin.com/in/navendran-naidoo-0bb732221)
 - [Email](mailto:navendrannaidoo1309@gmail.com)
 
 Feel free to reach out if you'd like to collaborate on a project or just want to chat about tech!
