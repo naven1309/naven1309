@@ -67,7 +67,7 @@ I'm a passionate software developer with a love for creating innovative solution
 
 ## CV
 
-You can view my CV [here](./Navendran Naidoo CV.pdf).
+You can view my CV [here](./Navendran_Naidoo_CV.pdf).
 
 ## Connect with Me
 
