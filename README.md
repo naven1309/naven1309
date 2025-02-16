@@ -64,6 +64,7 @@ I'm a passionate software developer with a love for creating innovative solution
 ### COS341 Compiler Project
 
 - Developed a compiler in Java for a given programming language, implementing all phases of compilation: lexing, parsing, semantic analysis, type checking, and code generation.
+- **GitHub Link:** [Compiler Project](https://github.com/Naven13/COS341)
 
 ## CV
 
