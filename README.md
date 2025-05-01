@@ -85,7 +85,7 @@ I'm a passionate software developer with a love for creating innovative solution
 - Led the integration between the API, JS Client Library, and UI components, ensuring consistent data flow and interaction.
 - Utilised Jest to write integration tests, which helped verify system-wide behavior and finalize API responses for UI use.
 - Overcame challenges related to project scale by applying modular design, effective testing strategies, and consistent communication between teams.
-
+- **GitHub Link:** [NoSquirrel Project](https://github.com/COS301-SE-2025/MP14)
 
 ## CV
 
