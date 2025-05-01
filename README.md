@@ -51,7 +51,8 @@ I'm a passionate software developer with a love for creating innovative solution
 
 ## Projects
 
-### 2023: COS 216 Car Listing Website
+### 2023: 
+###COS 216 Car Listing Website
 
 - Developed a dynamic car listing website featuring a custom-designed database for storing and managing car listings.
 - Designed and implemented various APIs to facilitate seamless data retrieval and updates.
@@ -64,7 +65,8 @@ I'm a passionate software developer with a love for creating innovative solution
 - Contributed to research, database design, CSS styling, and functional requirements, showcasing skills in web development, database modelling, and collaborative teamwork.
 - **GitHub Link:** [Winery Project](https://github.com/SageBoots/COS221-PA5)
 
-### 2024: COS 214 City Builder Simulation
+### 2024: 
+###COS 214 City Builder Simulation
 
 - Collaborated with a team of 7 to develop a city-building simulation game in C++ that challenges players to manage and expand a virtual city by balancing infrastructure, resources, citizens' needs, and government policies.
 - Utilised advanced software engineering principles, incorporating design patterns to ensure modularity and scalability.
@@ -76,7 +78,8 @@ I'm a passionate software developer with a love for creating innovative solution
 - Developed a compiler in Java for a given programming language, implementing all phases of compilation: lexing, parsing, semantic analysis, type checking, and code generation.
 - **GitHub Link:** [Compiler Project](https://github.com/Naven13/COS341)
 
-### 2025: COS301 NoSQL MPDB (Mini - Project Database)
+### 2025: 
+###COS 301 NoSQL MPDB (Mini - Project Database)
 
 - Contributed to the development of a modular NoSQL database system comprising a REST API, JavaScript Client Library, CLI, and UI.
 - Led the integration between the API, JS Client Library, and UI components, ensuring consistent data flow and interaction.
