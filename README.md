@@ -79,7 +79,7 @@ I'm a passionate software developer with a love for creating innovative solution
 - **GitHub Link:** [Compiler Project](https://github.com/Naven13/COS341)
 
 ### 2025: 
-###COS 301 NoSQL MPDB (Mini - Project Database)
+### COS 301 NoSQL MPDB (Mini - Project Database)
 
 - Contributed to the development of a modular NoSQL database system comprising a REST API, JavaScript Client Library, CLI, and UI.
 - Led the integration between the API, JS Client Library, and UI components, ensuring consistent data flow and interaction.
