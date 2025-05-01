@@ -71,10 +71,18 @@ I'm a passionate software developer with a love for creating innovative solution
 - Effective teamwork facilitated the integration of diverse ideas and expertise, enabling the delivery of a polished, strategic gameplay experience. The game emphasised strategic decision-making and showcased expertise in C++ programming, object-oriented design, and simulation development.
 - **GitHub Link:** [CityBuilder Simulation](https://github.com/COS214-Project-2024/VScoders-and-the-Jetbrainstormers-Team-4)
 
-### COS341 Compiler Project
+### COS 341 Compiler Project
 
 - Developed a compiler in Java for a given programming language, implementing all phases of compilation: lexing, parsing, semantic analysis, type checking, and code generation.
 - **GitHub Link:** [Compiler Project](https://github.com/Naven13/COS341)
+
+### 2025: COS301 NoSQL MPDB (Mini - Project Database)
+
+- Contributed to the development of a modular NoSQL database system comprising a REST API, JavaScript Client Library, CLI, and UI.
+- Led the integration between the API, JS Client Library, and UI components, ensuring consistent data flow and interaction.
+- Utilised Jest to write integration tests, which helped verify system-wide behavior and finalize API responses for UI use.
+- Overcame challenges related to project scale by applying modular design, effective testing strategies, and consistent communication between teams.
+
 
 ## CV
 
