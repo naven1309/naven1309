@@ -52,7 +52,7 @@ I'm a passionate software developer with a love for creating innovative solution
 ## Projects
 
 ### 2023: 
-###COS 216 Car Listing Website
+### COS 216 Car Listing Website
 
 - Developed a dynamic car listing website featuring a custom-designed database for storing and managing car listings.
 - Designed and implemented various APIs to facilitate seamless data retrieval and updates.
@@ -66,7 +66,7 @@ I'm a passionate software developer with a love for creating innovative solution
 - **GitHub Link:** [Winery Project](https://github.com/SageBoots/COS221-PA5)
 
 ### 2024: 
-###COS 214 City Builder Simulation
+### COS 214 City Builder Simulation
 
 - Collaborated with a team of 7 to develop a city-building simulation game in C++ that challenges players to manage and expand a virtual city by balancing infrastructure, resources, citizens' needs, and government policies.
 - Utilised advanced software engineering principles, incorporating design patterns to ensure modularity and scalability.
